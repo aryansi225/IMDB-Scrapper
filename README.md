@@ -21,3 +21,13 @@ Scrapy,
 Pandas,
 Matplotlib,
 Seaborn
+
+# My Original Contribution & Learnings
+
+Contribution =>
+Implemented a spider that scrapes data from IMDB website by taking reference from Scrapy documentation.
+Implemented a script to do EDA on scraped data using pandas, matplotlib and seaborn.
+
+Major Learnings => 
+Learnt how to write spiders using scrapy.
+Learnt how to preprocess and do EDA on scraped data.
